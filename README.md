@@ -12,7 +12,7 @@ The **Multiverse App** is an interactive platform that allows users to explore a
 - 🤖 **AI-Powered Predictions** – Simulate outcomes based on different multiversal conditions.
 
 ## Installation
-
+ 
 ### Prerequisites
 - Node.js (v16+)
 - MongoDB (for universe data storage)
