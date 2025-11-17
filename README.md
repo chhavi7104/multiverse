@@ -1,4 +1,4 @@
-# multiverse
+# Multiverse
 # Multiverse App
 
 ## Overview
